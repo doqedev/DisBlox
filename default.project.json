@@ -1,0 +1,14 @@
+{
+  "name": "DisBlox",
+  "tree": {
+    "$className": "DataModel",
+    "ServerStorage": {
+      "DisBlox": {
+        "$path": "src/ServerStorage"
+      }
+    },
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    }
+  }
+}
